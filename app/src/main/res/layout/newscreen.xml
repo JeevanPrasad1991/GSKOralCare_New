@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/sensodynepain_topheader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title_bg"
+        android:padding="10sp" >
+
+        <ImageView
+            android:id="@+id/sensodynepain_parinaamlogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/parinaamlogo" />
+
+        <ImageView
+            android:id="@+id/imageView1af"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/topminilogos" />
+
+        <ImageView
+            android:id="@+id/sensodynepain_gsklogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/gsklogo" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/sensodynepain_topheaderborderline"
+        android:layout_width="fill_parent"
+        android:layout_height="1sp"
+        android:layout_below="@id/sensodynepain_topheader"
+        android:layout_marginBottom="40sp"
+        android:background="#d1d1d1" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/sensodynepain_titleheader"
+        android:layout_width="fill_parent"
+        android:layout_height="40sp"
+        android:layout_below="@id/sensodynepain_topheader"
+        android:background="#393939" >
+
+        <TextView
+            android:id="@+id/sensodynepain_titleaddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="10sp"
+            android:text="Sensodyne"
+            android:textColor="#ffffff"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="100sp"
+            android:layout_height="35sp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10sp"
+            android:background="@drawable/back_btn_bg"
+            android:paddingRight="10sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/sensodynepain_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/sensodynepain_titleheader"
+        android:layout_centerHorizontal="true"
+        android:padding="20sp" >
+
+        <Spinner
+            android:id="@+id/language_namegh"
+            android:layout_width="350sp"
+            android:layout_height="60sp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true" />
+
+        <VideoView
+            android:id="@+id/msggrdtfficosskujn"
+            android:layout_width="350sp"
+            android:layout_height="300sp"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/language_namegh"
+            android:layout_marginRight="15sp" />
+
+        <TextView
+            android:id="@+id/msggrdtff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/language_namegh"
+            android:layout_toRightOf="@+id/msggrdtfficosskujn"
+            android:text="Do you eat or drink the following regularly ?"
+            android:textColor="#242424"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/sensodynepain_ans1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/msggrdtff"
+            android:layout_below="@+id/msggrdtff"
+            android:text="- Soft drinks (i.e. cola)"
+            android:textColor="#242424"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/sensodynepain_ans2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/msggrdtff"
+            android:layout_below="@+id/sensodynepain_ans1"
+            android:text="- Fruit juice (i.e. orange juice, apple juice)"
+            android:textColor="#242424"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/sensodynepain_ans3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/msggrdtff"
+            android:layout_below="@+id/sensodynepain_ans2"
+            android:text="- Flavored Ice Tea"
+            android:textColor="#242424"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/sensodynepain_ans4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/msggrdtff"
+            android:layout_below="@+id/sensodynepain_ans3"
+            android:text="- Wine"
+            android:textColor="#242424"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/sensodynepain_ans5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/msggrdtff"
+            android:layout_below="@+id/sensodynepain_ans4"
+            android:text="- Vinegar-based salad dressing (i.e balsamic vinaigrette)"
+            android:textColor="#242424"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/sensodynepain_ans6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/msggrdtff"
+            android:layout_below="@+id/sensodynepain_ans5"
+            android:text="- Fresh Fruits (i.e. apple, strawberries, grapes)"
+            android:textColor="#242424"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/sensodynepain_ans8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/msggrdtff"
+            android:layout_below="@+id/sensodynepain_ans6"
+            android:text="Consumption of the above regularly can cause sensitive teeth"
+            android:textColor="#242424"
+            android:textSize="18sp"
+            android:textStyle="normal"
+            android:layout_margin="10sp" />
+
+        <Button
+            android:id="@+id/notnow"
+            android:layout_width="120sp"
+            android:layout_height="50sp"
+            android:layout_alignBaseline="@+id/buy"
+            android:layout_alignBottom="@+id/buy"
+            android:layout_toRightOf="@+id/buy"
+            android:text="Not Now"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/buy"
+            android:layout_width="120sp"
+            android:layout_height="50sp"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/sensodynepain_ans4"
+            android:text="Buy"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

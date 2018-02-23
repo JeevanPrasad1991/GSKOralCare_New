@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#F57C00</color>
+    <color name="dummy">#f2ec76</color>
+    <color name="grey_background">#EEEEEE</color>
+    <color name="grey_dark">#616161</color>
+    <color name="white">#ffffff</color>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <style name="TxtViewStyleLower">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">right</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_marginLeft">@dimen/margin_3dp</item>
+        <item name="android:paddingRight">@dimen/padding_3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/txtSize_24sp</item>
+        <item name="android:textColor">#FF9800</item>
+    </style>
+    <style name="TxtViewStyleLower_ph">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">right</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_marginLeft">@dimen/margin_3dp</item>
+        <item name="android:paddingRight">@dimen/padding_3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/txtSize_18sp</item>
+        <item name="android:textColor">#FF9800</item>
+    </style>
+    <style name="TxtViewStyleTop">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:layout_marginTop">@dimen/margin_5dp</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_marginLeft">@dimen/margin_3dp</item>
+        <item name="android:textAllCaps" ns1:ignore="NewApi">true</item>
+        <item name="android:paddingLeft">@dimen/padding_3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/txtSize_18sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="TxtViewStyleTop_ph">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:layout_marginTop">@dimen/margin_5dp</item>
+        <item name="android:gravity">left</item>
+        <item name="android:background">#3169b4</item>
+        <item name="android:layout_marginLeft">@dimen/margin_3dp</item>
+        <item name="android:textAllCaps" ns1:ignore="NewApi">true</item>
+        <item name="android:paddingLeft">@dimen/padding_3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/txtSize_12sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+</resources>

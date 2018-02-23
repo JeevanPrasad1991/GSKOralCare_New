@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TxtViewStyleTop_ph">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:layout_marginTop">@dimen/margin_5dp</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_marginLeft">@dimen/margin_3dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:paddingLeft">@dimen/padding_3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/txtSize_12sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+</resources>

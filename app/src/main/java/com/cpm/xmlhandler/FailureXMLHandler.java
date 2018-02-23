@@ -1,0 +1,51 @@
+package com.cpm.xmlhandler;
+
+import org.xml.sax.SAXException;
+import org.xml.sax.helpers.DefaultHandler;
+
+
+
+public class FailureXMLHandler extends DefaultHandler{
+	
+	private String elementValue;
+	private com.cpm.gettersetter.FailureGetterSetter failureGetterSetter = null;
+	
+	
+	public com.cpm.gettersetter.FailureGetterSetter getFailureGetterSetter()
+	{
+		return failureGetterSetter;
+	}
+
+	@Override
+	public void startDocument() throws SAXException {
+		// TODO Auto-generated method stub
+		super.startDocument();
+		
+		failureGetterSetter = new com.cpm.gettersetter.FailureGetterSetter();
+	}
+
+	@Override
+	public void characters(char[] ch, int start, int length)
+			throws SAXException {
+		// TODO Auto-generated method stub
+		super.characters(ch, start, length);
+		
+		elementValue = new String(ch, start, length);
+	}
+
+	@Override
+	public void endElement(String uri, String localName, String qName)
+			throws SAXException {
+		// TODO Auto-generated method stub
+		super.endElement(uri, localName, qName);
+		
+		if(qName.equals("STATUS"))
+		{
+			failureGetterSetter.setStatus(elementValue);
+		}
+		else if(qName.equals("ERRORMSG"))
+		{
+			failureGetterSetter.setErrorMsg(elementValue);
+		}
+	}
+}

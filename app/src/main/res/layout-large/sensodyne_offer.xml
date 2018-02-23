@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/sensodyneoffer_topheader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title_bg"
+        android:padding="10sp" >
+
+        <ImageView
+            android:id="@+id/sensodyneoffer_parinaamlogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/parinaamlogo" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/topminilogos" />
+
+        <ImageView
+            android:id="@+id/sensodyneoffer_gsklogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/gsklogo" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/sensodyneoffer_topheaderborderline"
+        android:layout_width="fill_parent"
+        android:layout_height="1sp"
+        android:layout_below="@id/sensodyneoffer_topheader"
+        android:layout_marginBottom="40sp"
+        android:background="#d1d1d1" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/sensodyneoffer_titleheader"
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:layout_below="@id/sensodyneoffer_topheader"
+        android:background="#393939" >
+
+        <TextView
+            android:id="@+id/sensodyneoffer_titleaddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="10sp"
+            android:text="Sensodyne Offers"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="100sp"
+            android:layout_height="35sp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10sp"
+            android:visibility="gone"
+           android:background="@drawable/back_btn_bg"
+            android:paddingRight="10sp" />
+        <Button
+            android:id="@+id/home"
+            android:layout_width="100dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10sp"
+            android:text="Home"
+            android:paddingRight="10sp"
+            android:layout_height="35dp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/sensodyneoffer_headingcontent"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sensodyneoffer_titleheader"
+        android:layout_margin="10sp"
+        android:weightSum="1.0" >
+
+        <RelativeLayout
+            android:id="@+id/sensodyneoffer_1C"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="5sp"
+            android:layout_weight=".5" >
+
+            <RelativeLayout
+                android:id="@+id/sensodyneoffer_inner1C"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#4474ae"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext1C"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="GEL"
+                    android:textColor="#ffffff"
+                    android:textSize="20sp"
+                    android:textStyle="bold" >
+                </TextView>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/sensodyneoffer_inner1C1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/sensodyneoffer_inner1C"
+                android:background="#eaeaea"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext1C1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="30sp"
+                    android:text="150g"
+                    android:textColor="#343434"
+                    android:textSize="22sp"
+                    android:textStyle="bold" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext1C1a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/sensodyneoffer_innertext1C1"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_inneredittext1C1a"
+                    android:text="MRP:"
+                    android:textColor="#343434"
+                    android:textSize="17sp"
+                    android:textStyle="bold" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_inneredittext1C1a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/sensodyneoffer_innertext1C1a"
+                    android:layout_marginLeft="10sp"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_innertext1C1b"
+                    android:text="Rs. 160"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innerebelowedittext1C1b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/sensodyneoffer_innertext1C1"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="2sp"
+                    android:layout_marginRight="2sp"
+                    android:layout_marginTop="10sp"
+                    android:text="Offer"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <RelativeLayout
+                    android:id="@+id/sensodyneoffer_innereseperatorbelowedittext1C1b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="1sp"
+                    android:layout_below="@+id/sensodyneoffer_innerebelowedittext1C1b"
+                    android:background="#cecece" >
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_inneredittext1C1b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/sensodyneoffer_inneredittext1C1a"
+                    android:layout_alignBottom="@+id/sensodyneoffer_inneredittext1C1a"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="10sp"
+                    android:text="Rs. 160"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext1C1b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/sensodyneoffer_inneredittext1C1b"
+                    android:layout_alignBottom="@+id/sensodyneoffer_inneredittext1C1b"
+                    android:layout_marginLeft="20sp"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_inneredittext1C1b"
+                    android:text="Offer Page:"
+                    android:textColor="#343434"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/sensodyneoffer_inner1C2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/sensodyneoffer_inner1C1"
+                android:background="#eaeaea"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext1C2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="30sp"
+                    android:text="80g"
+                    android:textColor="#343434"
+                    android:textSize="22sp"
+                    android:textStyle="bold" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext1C2a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/sensodyneoffer_innertext1C2"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_inneredittext1C2a"
+                    android:text="MRP:"
+                    android:textColor="#343434"
+                    android:textSize="17sp"
+                    android:textStyle="bold" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_inneredittext1C2a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/sensodyneoffer_innertext1C2a"
+                    android:layout_marginLeft="10sp"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_innertext1C2b"
+                    android:text="Rs. 100"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innerebelowedittext1C2b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/sensodyneoffer_innertext1C2"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="2sp"
+                    android:layout_marginRight="2sp"
+                    android:layout_marginTop="10sp"
+                    android:text="Offer"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <RelativeLayout
+                    android:id="@+id/sensodyneoffer_innereseperatorbelowedittext1C2b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="1sp"
+                    android:layout_below="@+id/sensodyneoffer_innerebelowedittext1C2b"
+                    android:background="#cecece" >
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_inneredittext1C2b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/sensodyneoffer_inneredittext1C2a"
+                    android:layout_alignBottom="@+id/sensodyneoffer_inneredittext1C2a"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="10sp"
+                    android:text="Rs. 100"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext1C2b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/sensodyneoffer_inneredittext1C2b"
+                    android:layout_alignBottom="@+id/sensodyneoffer_inneredittext1C2b"
+                    android:layout_marginLeft="20sp"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_inneredittext1C2b"
+                    android:text="Offer Page:"
+                    android:textColor="#343434"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/sensodyneoffer_inner1C3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/sensodyneoffer_inner1C2"
+                android:background="#eaeaea"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext1C3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="30sp"
+                    android:text="40g"
+                    android:textColor="#343434"
+                    android:textSize="22sp"
+                    android:textStyle="bold" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext1C3a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/sensodyneoffer_innertext1C3"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_inneredittext1C3a"
+                    android:text="MRP:"
+                    android:textColor="#343434"
+                    android:textSize="17sp"
+                    android:textStyle="bold" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_inneredittext1C3a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/sensodyneoffer_innertext1C3a"
+                    android:layout_marginLeft="10sp"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_innertext1C3b"
+                    android:text="Rs. 50"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innerebelowedittext1C3b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/sensodyneoffer_innertext1C3"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="2sp"
+                    android:layout_marginRight="2sp"
+                    android:layout_marginTop="10sp"
+                    android:text="Offer"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <RelativeLayout
+                    android:id="@+id/sensodyneoffer_innereseperatorbelowedittext1C3b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="1sp"
+                    android:layout_below="@+id/sensodyneoffer_innerebelowedittext1C3b"
+                    android:background="#cecece" >
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_inneredittext1C3b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/sensodyneoffer_inneredittext1C3a"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="10sp"
+                    android:text="Rs. 50"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext1C3b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/sensodyneoffer_inneredittext1C3b"
+                    android:layout_alignBottom="@+id/sensodyneoffer_inneredittext1C3b"
+                    android:layout_marginLeft="20sp"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_inneredittext1C3b"
+                    android:text="Offer Page:"
+                    android:textColor="#343434"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/sensodyneoffer_2ndC"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="1sp"
+            android:layout_marginLeft="5sp"
+            android:layout_weight=".5" >
+
+            <RelativeLayout
+                android:id="@+id/sensodyneoffer_inner2C"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#557331"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext2C"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="MINT"
+                    android:textColor="#ffffff"
+                    android:textSize="20sp"
+                    android:textStyle="bold" >
+                </TextView>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/sensodyneoffer_inner2C1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/sensodyneoffer_inner2C"
+                android:background="#eaeaea"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext2C1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="30sp"
+                    android:text="150g"
+                    android:textColor="#343434"
+                    android:textSize="22sp"
+                    android:textStyle="bold" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext2C1a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/sensodyneoffer_innertext2C1"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_inneredittext2C1a"
+                    android:text="MRP:"
+                    android:textColor="#343434"
+                    android:textSize="17sp"
+                    android:textStyle="bold" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_inneredittext2C1a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/sensodyneoffer_innertext2C1a"
+                    android:layout_marginLeft="10sp"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_innertext2C1b"
+                    android:text="Rs. 160"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innerebelowedittext2C1b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/sensodyneoffer_innertext2C1"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="2sp"
+                    android:layout_marginRight="2sp"
+                    android:layout_marginTop="10sp"
+                    android:text="Offer"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <RelativeLayout
+                    android:id="@+id/sensodyneoffer_innereseperatorbelowedittext2C1b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="1sp"
+                    android:layout_below="@+id/sensodyneoffer_innerebelowedittext2C1b"
+                    android:background="#cecece" >
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_inneredittext2C1b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/sensodyneoffer_inneredittext2C1a"
+                    android:layout_alignBottom="@+id/sensodyneoffer_inneredittext2C1a"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="10sp"
+                    android:text="Rs. 160"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext2C1b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/sensodyneoffer_inneredittext2C1b"
+                    android:layout_alignBottom="@+id/sensodyneoffer_inneredittext2C1b"
+                    android:layout_marginLeft="20sp"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_inneredittext2C1b"
+                    android:text="Offer Page:"
+                    android:textColor="#343434"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/sensodyneoffer_inner2C2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/sensodyneoffer_inner2C1"
+                android:background="#eaeaea"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext2C2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="30sp"
+                    android:text="80g"
+                    android:textColor="#343434"
+                    android:textSize="22sp"
+                    android:textStyle="bold" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext2C2a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/sensodyneoffer_innertext2C2"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_inneredittext2C2a"
+                    android:text="MRP:"
+                    android:textColor="#343434"
+                    android:textSize="17sp"
+                    android:textStyle="bold" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_inneredittext2C2a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/sensodyneoffer_innertext2C2a"
+                    android:layout_marginLeft="10sp"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_innertext2C2b"
+                    android:text="Rs. 100"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innerebelowedittext2C2b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/sensodyneoffer_innertext2C2"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="2sp"
+                    android:layout_marginRight="2sp"
+                    android:layout_marginTop="10sp"
+                    android:text="Offer"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <RelativeLayout
+                    android:id="@+id/sensodyneoffer_innereseperatorbelowedittext2C2b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="1sp"
+                    android:layout_below="@+id/sensodyneoffer_innerebelowedittext2C2b"
+                    android:background="#cecece" >
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_inneredittext2C2b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/sensodyneoffer_inneredittext2C2a"
+                    android:layout_alignBottom="@+id/sensodyneoffer_inneredittext2C2a"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="10sp"
+                    android:text="Rs. 100"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext2C2b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/sensodyneoffer_inneredittext2C2b"
+                    android:layout_alignBottom="@+id/sensodyneoffer_inneredittext2C2b"
+                    android:layout_marginLeft="20sp"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_inneredittext2C2b"
+                    android:text="Offer Page:"
+                    android:textColor="#343434"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/sensodyneoffer_inner2C3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/sensodyneoffer_inner2C2"
+                android:background="#eaeaea"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext2C3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="30sp"
+                    android:text="40g"
+                    android:textColor="#343434"
+                    android:textSize="22sp"
+                    android:textStyle="bold" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext2C3a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/sensodyneoffer_innertext2C3"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_inneredittext2C3a"
+                    android:text="MRP:"
+                    android:textColor="#343434"
+                    android:textSize="17sp"
+                    android:textStyle="bold" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_inneredittext2C3a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/sensodyneoffer_innertext2C3a"
+                    android:layout_marginLeft="10sp"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_innertext2C3b"
+                    android:text="Rs. 50"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innerebelowedittext2C3b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/sensodyneoffer_innertext2C3"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="2sp"
+                    android:layout_marginRight="2sp"
+                    android:layout_marginTop="10sp"
+                    android:text="Offer"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <RelativeLayout
+                    android:id="@+id/sensodyneoffer_innereseperatorbelowedittext2C3b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="1sp"
+                    android:layout_below="@+id/sensodyneoffer_innerebelowedittext2C3b"
+                    android:background="#cecece" >
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_inneredittext2C3b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/sensodyneoffer_inneredittext2C3a"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="10sp"
+                    android:text="Rs. 50"
+                    android:textColor="#343434"
+                    android:textSize="17sp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/sensodyneoffer_innertext2C3b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/sensodyneoffer_inneredittext2C3b"
+                    android:layout_alignBottom="@+id/sensodyneoffer_inneredittext2C3b"
+                    android:layout_marginLeft="20sp"
+                    android:layout_toLeftOf="@+id/sensodyneoffer_inneredittext2C3b"
+                    android:text="Offer Page:"
+                    android:textColor="#343434"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/offer_buy"
+        android:layout_width="100sp"
+        android:layout_height="50sp"
+        android:layout_alignRight="@+id/sensodyneoffer_headingcontent"
+        android:layout_below="@+id/sensodyneoffer_headingcontent"
+        android:onClick="Checking"
+        android:text="Buy"
+        android:textSize="16sp" />
+
+</RelativeLayout>

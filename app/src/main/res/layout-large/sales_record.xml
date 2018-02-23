@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/salesrecordpage_topheader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title_bg"
+        android:padding="10sp" >
+
+        <ImageView
+            android:id="@+id/salesrecordpage_parinaamlogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/parinaamlogo" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/topminilogos" />
+
+        <ImageView
+            android:id="@+id/salesrecordpage_gsklogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/gsklogo" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/salesrecordpage_topheaderborderline"
+        android:layout_width="fill_parent"
+        android:layout_height="1sp"
+        android:layout_below="@id/salesrecordpage_topheader"
+        android:layout_marginBottom="40sp"
+        android:background="#d1d1d1" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/salesrecordpage_titleheader"
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:layout_below="@id/salesrecordpage_topheader"
+        android:background="#393939" >
+
+        <TextView
+            android:id="@+id/salesrecordpage_titleaddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="10sp"
+            android:text="Sales Record Page"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="100sp"
+            android:layout_height="35sp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10sp"
+            android:visibility="gone"
+            android:background="@drawable/back_btn_bg"
+            android:paddingRight="10sp" />
+        <Button
+            android:id="@+id/home"
+            android:layout_width="100dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10sp"
+            android:paddingRight="10sp"
+            android:text="Home"
+            android:layout_height="35dp" />
+    </RelativeLayout>
+
+   
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/savesale"
+        android:layout_below="@+id/salesrecordpage_titleheader"
+        android:cacheColorHint="#00000000"
+        android:choiceMode="none"
+        android:drawSelectorOnTop="false"
+        android:smoothScrollbar="true" >
+    </ListView>
+
+    <Button
+        android:id="@+id/savesale"
+        android:layout_width="120sp"
+        android:layout_height="50sp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="10sp"
+        android:layout_toLeftOf="@+id/nextcall"
+        android:text="Save Sale"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/nextcall"
+        android:layout_width="120sp"
+        android:layout_height="50sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/savesale"
+        android:layout_marginRight="10sp"
+        android:text="Next Call"
+        android:textSize="16sp" />
+
+    <com.cpm.keyboard.CustomKeyboardView
+        android:id="@+id/keyboard_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+
+</RelativeLayout>

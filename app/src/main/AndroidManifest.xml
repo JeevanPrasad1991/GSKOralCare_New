@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cpm.gsk"
+    android:versionCode="20"
+    android:versionName="2.9">
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".MyApplication"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:screenOrientation="landscape"
+        android:largeHeap="true"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        <activity
+            android:name=".GSKOralCareActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.cpm.web.ShowUpdateActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PerformanceDetailAuthentication"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.mainmenu.SensodyneQuestions"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.cpm.mainmenu.Score"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.cpm.mainmenu.PracticalSession"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.mainmenu.Pain_yes"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.mainmenu.Pain_no"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.mainmenu.toothpaste_activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.mainmenu.Sensodyne_Products"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.autoupadte.AutoupdateActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.alert_message.AlertMessageActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.Best_Offer"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.RapidRelief_Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.Sales_Record"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="adjustResize" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.Sensodyne"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.Parandontax_Offer_Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.FullScreenVideo"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name=".Sensodyne_repair_protectActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.Sensodyne_Rapid_Relief_Offer_Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.WhyUseParandontax_Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.NewSreen_Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.WhyUseSensodyne_Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.OralCare_Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.Rapid_Relief_Rapir_Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.Sensodyne_repair_protectActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name="com.cpm.upload.Upload"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.upload.UploadSale"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.mainmenu.Sensodyne_Offer"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.mainmenu.Startsales"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.download.PerformanceDetailAuthentication"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name="com.cpm.mainmenu.MainMenuScreenActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.autoupdate.AutoupdateActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.download.CompleteDownloadActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.ToothBrush_Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.WhichBrand"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.RAndPActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.OthersRNP"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <activity
+            android:name="com.cpm.use_toothpaste.NovaminActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <activity
+            android:name="com.cpm.use_toothpaste.VideoSRNPActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <activity
+            android:name="com.cpm.use_toothpaste.DrActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.DoCauseActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.DrRecommendedActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.VideoSensationActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.VideoRapidActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.RapidRelief"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.InstantRelief"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.ToothbrushSensitive"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.NextCallActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.VideoNew"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.AfterNewVideo"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.ShortSharpSensation"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.NaturalWhiteness"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.cpm.use_toothpaste.DesignWithExperts"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.cpm.use_toothpaste.LargestSellingActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.cpm.use_toothpaste.SensodyneWhitingVideo"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.cpm.use_toothpaste.SensodyneWhiteningTextActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" />
+    </application>
+</manifest>

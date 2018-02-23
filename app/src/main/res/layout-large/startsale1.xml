@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/canyurtoothpasterepair" >
+
+        <Button
+            android:id="@+id/yes"
+            android:layout_width="130sp"
+            android:layout_height="60sp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="26dp"
+            android:layout_marginRight="20dp"
+            android:text="Yes"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/no"
+            android:layout_width="150sp"
+            android:layout_height="70sp"
+            android:layout_alignBaseline="@+id/yes"
+            android:layout_alignBottom="@+id/yes"
+            android:layout_marginBottom="26dp"
+            android:layout_marginRight="25dp"
+            android:layout_toLeftOf="@+id/yes"
+            android:text="No"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="100sp"
+            android:layout_height="35sp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="70dp"
+            android:visibility="gone"
+            android:background="@drawable/back_btn_bg" />
+        <Button
+            android:id="@+id/home"
+            android:layout_width="100dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="70dp"
+            android:text="Home"
+            android:layout_height="35dp" />
+
+        <LinearLayout
+            android:id="@+id/additionalbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="26dp"
+            android:layout_marginLeft="20dp"
+            android:visibility="gone"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btnrnp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:text="RnP"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btnbase"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:text="Base"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btnrr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:text="RR"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

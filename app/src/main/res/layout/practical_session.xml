@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/practicealert_topheader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title_bg"
+        android:padding="10sp" >
+
+        <ImageView
+            android:id="@+id/practicealert_parinaamlogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/parinaamlogo" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/topminilogos" />
+
+        <ImageView
+            android:id="@+id/practicealert_gsklogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/gsklogo" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/practicealert_topheaderborderline"
+        android:layout_width="fill_parent"
+        android:layout_height="1sp"
+        android:layout_below="@id/practicealert_topheader"
+        android:layout_marginBottom="40sp"
+        android:background="#d1d1d1" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/practicealert_titleheader"
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:layout_below="@id/practicealert_topheader"
+        android:background="#393939" >
+
+        <TextView
+            android:id="@+id/practicealert_titleaddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="10sp"
+            android:text="Practice Alert"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="100sp"
+            android:layout_height="35sp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10sp"
+             android:background="@drawable/back_btn_bg"
+            android:paddingRight="10sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/practicealert_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/practicealert_titleheader"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30sp"
+        android:background="#9e2a38"
+        android:padding="20sp" >
+
+        <TextView
+            android:id="@+id/practicealert_question"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="You are entering the Practice Session Sales Registered in this session will not be Saved"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/practicealert_exitsessionbtn"
+        android:layout_width="130sp"
+        android:layout_height="50sp"
+        android:layout_alignLeft="@+id/practicealert_btn"
+        android:layout_below="@+id/practicealert_btn"
+        android:layout_marginTop="30sp"
+        android:text="Exit Session"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/practicealert_continuebtn"
+        android:layout_width="130sp"
+        android:layout_height="50sp"
+        android:layout_alignRight="@+id/practicealert_btn"
+        android:layout_below="@+id/practicealert_btn"
+        android:layout_marginTop="30sp"
+        android:text="Continue"
+        android:textSize="15sp" />
+
+</RelativeLayout>

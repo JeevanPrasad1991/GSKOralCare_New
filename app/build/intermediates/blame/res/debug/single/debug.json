@@ -1,0 +1,698 @@
+[
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_rapidrelief.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\rapidrelief.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_startsale1.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\startsale1.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_sensodyne_products.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\sensodyne_products.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_docauseimg.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\docauseimg.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_sensodyne_question.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\sensodyne_question.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_parodontax.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\parodontax.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_questionmark.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\questionmark.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_score.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\score.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_whyusesensodyne.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\whyusesensodyne.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_address_bar.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\address_bar.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_delete.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_novamin_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\novamin_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_sensodyne_offer.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\sensodyne_offer.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_sensodyne_question.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\sensodyne_question.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_score.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\score.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_listrow1.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\listrow1.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_call_performance_list_view.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\call_performance_list_view.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_oralcarebetterhealth.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\oralcarebetterhealth.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_rapid_relief_repair.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\rapid_relief_repair.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_sensodyne_products.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\sensodyne_products.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_rapidrelief.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\rapidrelief.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_practical_session.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\practical_session.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_teeth1.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\teeth1.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_novaminpng.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\novaminpng.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_videorapidlayout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\videorapidlayout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sensodyne_repair_and_product_rapid_relief.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sensodyne_repair_and_product_rapid_relief.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sensodynepnglogo.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sensodynepnglogo.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_newscreen.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\newscreen.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_backn.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\backn.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_othersrnp_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\othersrnp_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_update.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\update.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instantreliefimg.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\instantreliefimg.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_instantrelief_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\instantrelief_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sen.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sen.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_rapid_relief_repair.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\rapid_relief_repair.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sensodynelogo.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sensodynelogo.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sym_keyboard_feedback_return.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_feedback_return.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sensedyne_toothpaste.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\sensedyne_toothpaste.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_supdate.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\supdate.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_head_banner.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-ldpi\\head_banner.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_languagexmlhandler.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\languagexmlhandler.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_feelpain.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\feelpain.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_back.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\round_back.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_parinaamlogo.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\parinaamlogo.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sensodynetext.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sensodynetext.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_btn_bg.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\back_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toothbrush.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\toothbrush.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_mainmenuscreen.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\mainmenuscreen.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_with_experts.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\design_with_experts.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sensodyneminilogo.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sensodyneminilogo.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toothpastesensitiveimg.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\toothpastesensitiveimg.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete_btna.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\delete_btna.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_dr_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\dr_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_sensodyne_offer.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\sensodyne_offer.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_whyuseparodontax.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\whyuseparodontax.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_startsale1.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\startsale1.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_head_banner.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\head_banner.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_shortsharpsensation.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\shortsharpsensation.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_sales_performance_list_view.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\sales_performance_list_view.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_update.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title_bg.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\title_bg.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_videosrnp.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\videosrnp.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_listrow1.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\listrow1.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_video_new_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\video_new_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_toothbrush.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\toothbrush.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_docause_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\docause_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dataimg.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\dataimg.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_backhover.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-ldpi\\backhover.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainmenuscreen.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\mainmenuscreen.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_custom.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\custom.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_call_performance_list_view.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\call_performance_list_view.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_practical_session.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\practical_session.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_incentive.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\row_incentive.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_video.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\video.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_largest_selling_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\largest_selling_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_sales_record.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\sales_record.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_corner.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\background_corner.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_repairsensitive.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\repairsensitive.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-ldpi\\bg.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_design_with_expert.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\design_with_expert.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sensodynergtteeth.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sensodynergtteeth.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_gsklogo.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-ldpi\\gsklogo.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_newscreen.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\newscreen.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_topminilogos.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\topminilogos.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_natural_white_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\natural_white_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tick.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\tick.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drimgdcrsd.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\drimgdcrsd.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_rnp_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\rnp_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_paradontaxteeth.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\paradontaxteeth.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_video.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\video.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_sensodyne_rapid_relief_offer.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\sensodyne_rapid_relief_offer.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_rapidrelief_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\rapidrelief_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_nextcall_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\nextcall_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whichubranduse.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\whichubranduse.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sesodyne_text_screen.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\activity_sesodyne_text_screen.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_canyurtoothpasterepair.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\canyurtoothpasterepair.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sensodyne_repair_and_product_offer.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sensodyne_repair_and_product_offer.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_rnp_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\rnp_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_bottom.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_score.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\score.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_sensodyne_whitening_test_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\sensodyne_whitening_test_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_instantrelief_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\instantrelief_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_rapidrelief_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\rapidrelief_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sensodine_natural_white.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\sensodine_natural_white.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_drrecomend_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\drrecomend_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\xml_keyboard.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\xml\\keyboard.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_startsale2.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\startsale2.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_videosensation_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\videosensation_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drimg.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\drimg.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_largest_selling_sensodine.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\largest_selling_sensodine.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_afternewvideo_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\afternewvideo_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_nextcall_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\nextcall_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sensodyne.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sensodyne.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tradedetaling.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\tradedetaling.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_sensodyne_repir_protect.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\sensodyne_repir_protect.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_parodontaxlogo.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\parodontaxlogo.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_question.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\question.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sensodyne_rapid_relief.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sensodyne_rapid_relief.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_parodontaxneminilogo.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\parodontaxneminilogo.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_video_new_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\video_new_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_sensodyne_repir_protect.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\sensodyne_repir_protect.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_parodontax_offer.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\parodontax_offer.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_afternewvideo_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\afternewvideo_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_drrecomend_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\drrecomend_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_docause_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\docause_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_dr_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\dr_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shortsharpsensation.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\shortsharpsensation.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_sensodyne_rapid_relief_offer.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\sensodyne_rapid_relief_offer.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drrecomendimg.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\drrecomendimg.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_toothpastesensitive_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\toothpastesensitive_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_authentication.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\authentication.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_which_brand.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\which_brand.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_sensodyne_whitening_video_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\sensodyne_whitening_video_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_test.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_novamin_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\novamin_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_authentication.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\authentication.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_which_brand.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\which_brand.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_toothpastesensitive_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\toothpastesensitive_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_parodontax_offer.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\parodontax_offer.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_sales_performance_list_view.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\sales_performance_list_view.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_videosensation_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\videosensation_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_backhover.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\backhover.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_whyusesensodyne.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\whyusesensodyne.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sesodynelogo.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sesodynelogo.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_parodontaxoffer.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\parodontaxoffer.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_sales_record.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\sales_record.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_toothbrush.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\toothbrush.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tabpage.jpg.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\tabpage.jpg"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_whyuseparodontax.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\whyuseparodontax.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sensodyne_rapid_offer.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\sensodyne_rapid_offer.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_whh.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\whh.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_close.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_oralcarebetterhealth.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\oralcarebetterhealth.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gsklogo.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-hdpi\\gsklogo.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_videorapidlayout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\videorapidlayout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_othersrnp_layout.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\othersrnp_layout.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_videosrnp.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\videosrnp.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rapidreliefimg.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable\\rapidreliefimg.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_login.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout-large\\login.xml"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_parinaamlogo.png.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\drawable-ldpi\\parinaamlogo.png"
+    },
+    {
+        "merged": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_startsale2.xml.flat",
+        "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\layout\\startsale2.xml"
+    }
+]

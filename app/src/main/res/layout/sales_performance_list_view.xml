@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/dashboard_chartcontentarea"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dashboard_chartheader"
+        android:weightSum="5" >
+
+        <RelativeLayout
+            android:id="@+id/dashboard_1C"
+            android:layout_width="0dip"
+            android:layout_height="45sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight="2"
+            android:background="#cfcfcf"
+            android:padding="5sp" >
+
+            <TextView
+                android:id="@+id/dashboard_1c_titletext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:paddingLeft="5sp"
+                android:text="Sku"
+                android:textColor="#414141"
+                android:textStyle="normal" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/dashboard_2C"
+            android:layout_width="0dip"
+            android:layout_height="45sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight="1"
+            android:background="#e1e1e1"
+            android:padding="5sp" >
+
+            <TextView
+                android:id="@+id/dashboard_2c_titletext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="Target"
+                android:textColor="#414141"
+                android:textSize="15sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/dashboard_4C"
+            android:layout_width="0dip"
+            android:layout_height="45sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight="1"
+            android:background="#e1e1e1"
+            android:padding="5sp" >
+
+            <TextView
+                android:id="@+id/dashboard_4c_titletext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="ACH_MTD"
+                android:textColor="#414141"
+                android:textSize="15sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/dashboard_5C"
+            android:layout_width="0dip"
+            android:layout_height="45sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight="1"
+            android:background="#cfcfcf"
+            android:padding="5sp" >
+
+            <TextView
+                android:id="@+id/dashboard_5c_titletext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="Ach %"
+                android:textColor="#414141"
+                android:textSize="15sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

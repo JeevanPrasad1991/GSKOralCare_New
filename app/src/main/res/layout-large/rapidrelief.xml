@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/oralcarebetterhealth_topheader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title_bg"
+        android:padding="10sp" >
+
+        <ImageView
+            android:id="@+id/oralcarebetterhealth_parinaamlogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/parinaamlogo" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/topminilogos" />
+
+        <ImageView
+            android:id="@+id/oralcarebetterhealth_gsklogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/gsklogo" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/oralcarebetterhealth_topheaderborderline"
+        android:layout_width="fill_parent"
+        android:layout_height="1sp"
+        android:layout_below="@id/oralcarebetterhealth_topheader"
+        android:layout_marginBottom="40sp"
+        android:background="#d1d1d1" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/oralcarebetterhealth_titleheader"
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:layout_below="@id/oralcarebetterhealth_topheader"
+        android:background="#393939" >
+
+        <TextView
+            android:id="@+id/oralcarebetterhealth_titleaddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="10sp"
+            android:text="Rapid Relief"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="100sp"
+            android:layout_height="35sp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10sp"
+            android:visibility="gone"
+            android:background="@drawable/back_btn_bg"
+            android:paddingRight="10sp" />
+        <Button
+            android:id="@+id/home"
+            android:layout_width="100dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10sp"
+            android:paddingRight="10sp"
+            android:text="Home"
+            android:layout_height="35dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/oralcarebetterhealth_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/oralcarebetterhealth_titleheader"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/sen"
+        android:padding="20sp" >
+
+        <RelativeLayout
+            android:id="@+id/oralcarebetterhealth_videopallet"
+            android:layout_width="350sp"
+            android:layout_height="300sp" >
+            <Spinner
+                android:id="@+id/language_name"
+                android:layout_width="fill_parent"
+                android:layout_height="60sp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true" />
+
+            <VideoView
+                android:id="@+id/oralcarebetterhealth_questionico"
+                android:layout_width="fill_parent"
+                android:layout_height="350sp"
+                android:layout_marginTop="10dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/language_name" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/oralcarebetterhealth_question"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/oralcarebetterhealth_videopallet"
+            android:text="Rapid Relief"
+            android:textColor="#242424"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/oralcarebetterhealth_tick1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/oralcarebetterhealth_question"
+            android:layout_below="@+id/oralcarebetterhealth_question"
+            android:layout_marginRight="10sp"
+            android:layout_marginTop="25sp"
+            android:src="@drawable/tick" />
+
+        <TextView
+            android:id="@+id/oralcarebetterhealth_ans1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/oralcarebetterhealth_tick1"
+            android:layout_toRightOf="@+id/oralcarebetterhealth_tick1"
+            android:text="1/3 people suffer from Sensitive Teeth"
+            android:textColor="#242424"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <ImageView
+            android:id="@+id/oralcarebetterhealth_tick2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/oralcarebetterhealth_question"
+            android:layout_below="@+id/oralcarebetterhealth_tick1"
+            android:layout_marginRight="10sp"
+            android:visibility="invisible"
+            android:layout_marginTop="10sp"
+            android:src="@drawable/tick" />
+
+        <TextView
+            android:id="@+id/oralcarebetterhealth_ans2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/oralcarebetterhealth_tick2"
+            android:layout_toRightOf="@+id/oralcarebetterhealth_tick2"
+            android:text="Tooth Sensitivity is an irreversible process"
+            android:textColor="#242424"
+            android:textSize="18sp"
+            android:visibility="invisible"
+            android:textStyle="normal" />
+
+        <ImageView
+            android:id="@+id/oralcarebetterhealth_tick3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/oralcarebetterhealth_tick2"
+            android:layout_below="@+id/oralcarebetterhealth_tick2"
+            android:layout_marginRight="10sp"
+            android:layout_marginTop="10sp"
+            android:src="@drawable/tick" />
+
+        <Button
+            android:id="@+id/buy"
+            android:layout_width="120sp"
+            android:layout_height="50sp"
+            android:layout_alignLeft="@+id/oralcarebetterhealth_ans2"
+            android:layout_below="@+id/oralcarebetterhealth_ans4"
+            android:layout_marginRight="20sp"
+            android:layout_marginTop="30sp"
+            android:text="Buy"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/notnow"
+            android:layout_width="120sp"
+            android:layout_height="50sp"
+            android:layout_alignBaseline="@+id/buy"
+            android:layout_alignBottom="@+id/buy"
+            android:layout_toRightOf="@+id/buy"
+            android:text="Not Now"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/oralcarebetterhealth_ans4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/oralcarebetterhealth_ans1"
+            android:layout_alignTop="@+id/oralcarebetterhealth_tick3"
+            android:text="Sensitivity happens inside the Tooth"
+            android:textColor="#242424"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+    </RelativeLayout>
+</RelativeLayout>

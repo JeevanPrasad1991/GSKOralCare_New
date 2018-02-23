@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\jeevanAndroidProject\androidProject\GSKOralCare_New\app\libs\acra-4.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="F:\jeevanAndroidProject\androidProject\GSKOralCare_New\app\build\intermediates\pre-dexed\debug\acra-4.4.0_62476aad7b4c9b142c4a63e2adc5c62abd014d93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\jeevanAndroidProject\androidProject\GSKOralCare_New\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="F:\jeevanAndroidProject\androidProject\GSKOralCare_New\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.5.8-jar-with-dependencies_9c660c7b4022a09477e823c3ae101ba7e7029bc5.jar" />
+    </item>
+
+</items>

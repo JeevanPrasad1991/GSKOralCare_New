@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/whyusesensodyne_topheader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title_bg"
+        android:padding="10sp">
+
+        <ImageView
+            android:id="@+id/whyusesensodyne_parinaamlogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/parinaamlogo"/>
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/topminilogos"/>
+
+        <ImageView
+            android:id="@+id/whyusesensodyne_gsklogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/gsklogo"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/whyusesensodyne_topheaderborderline"
+        android:layout_width="fill_parent"
+        android:layout_height="1sp"
+        android:layout_below="@id/whyusesensodyne_topheader"
+        android:layout_marginBottom="40sp"
+        android:background="#d1d1d1">
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/whyusesensodyne_titleheader"
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:layout_below="@id/whyusesensodyne_topheader"
+        android:background="#393939">
+
+        <TextView
+            android:id="@+id/whyusesensodyne_titleaddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="10sp"
+            android:text="Why use Sensodyne?"
+            android:textColor="#ffffff"
+            android:textSize="18sp"/>
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="100sp"
+            android:layout_height="35sp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10sp"
+            android:background="@drawable/back_btn_bg"
+            android:paddingRight="10sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/whyusesensodyne_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/whyusesensodyne_titleheader"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/sen"
+        android:padding="20sp" >
+
+        <RelativeLayout
+            android:id="@+id/whyusesensodyne_videopallet"
+            android:layout_width="350sp"
+            android:layout_height="300sp" >
+
+
+            <Spinner
+                android:id="@+id/instoretraining_trainingspinner"
+                android:layout_width="fill_parent"
+                android:layout_height="60sp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true" />
+
+            <VideoView
+                android:id="@+id/oralcarebetterhealth_questionico"
+                android:layout_width="fill_parent"
+                android:layout_height="350sp"
+                android:layout_marginTop="10dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/instoretraining_trainingspinner"/>
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/whyusesensodyne_question"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/whyusesensodyne_questionico"
+            android:layout_toRightOf="@+id/whyusesensodyne_videopallet"
+            android:text="Why use Sensodyne ?"
+            android:textColor="#242424"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/whyusesensodyne_tick1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/whyusesensodyne_question"
+            android:layout_below="@+id/whyusesensodyne_question"
+            android:layout_marginRight="10sp"
+            android:layout_marginTop="15sp"
+            android:src="@drawable/tick" />
+
+        <TextView
+            android:id="@+id/whyusesensodyne_ans1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/whyusesensodyne_tick1"
+            android:layout_toRightOf="@+id/whyusesensodyne_tick1"
+            android:text="Sensodyne is World’s No. 1 Sensitivity Toothpaste"
+            android:textColor="#242424"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <ImageView
+            android:id="@+id/whyusesensodyne_tick2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/whyusesensodyne_question"
+            android:layout_below="@+id/whyusesensodyne_tick1"
+            android:layout_marginRight="10sp"
+            android:layout_marginTop="10sp"
+            android:src="@drawable/tick" />
+
+        <TextView
+            android:id="@+id/whyusesensodyne_ans2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/whyusesensodyne_tick2"
+            android:layout_toRightOf="@+id/whyusesensodyne_tick2"
+            android:text="It is recommended by Dentists’ worldwide"
+            android:textColor="#242424"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/bestoffer"
+            android:layout_width="120sp"
+            android:layout_height="50sp"
+            android:layout_alignLeft="@+id/whyusesensodyne_ans2"
+            android:layout_below="@+id/whyusesensodyne_ans2"
+            android:layout_marginRight="20sp"
+            android:layout_marginTop="30sp"
+            android:text="Best Offer"
+            android:textSize="16sp" />
+    </RelativeLayout>
+</RelativeLayout>

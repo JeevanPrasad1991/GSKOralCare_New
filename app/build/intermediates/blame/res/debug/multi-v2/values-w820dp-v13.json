@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "310",
+                        "endColumns": "57",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "458",
+                        "endColumns": "57",
+                        "endOffsets": "511"
+                    }
+                },
+                {
+                    "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\values-w820dp\\colors.xml",
+                    "from": {
+                        "startLines": "8,4,2,3,9,5,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "341,157,57,105,382,204,255,300",
+                        "endColumns": "39,45,46,50,39,49,43,39",
+                        "endOffsets": "376,198,99,151,417,249,294,335"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,140,186,233,284,324,374,418",
+                        "endColumns": "39,45,46,50,39,49,43,39",
+                        "endOffsets": "135,181,228,279,319,369,413,453"
+                    }
+                },
+                {
+                    "source": "F:\\jeevanAndroidProject\\androidProject\\GSKOralCare_New\\app\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "from": {
+                        "startLines": "15,42,1,27",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "809,2218,64,1414",
+                        "endLines": "25,52,13,40",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "1406,2818,801,2210"
+                    },
+                    "to": {
+                        "startLines": "11,22,33,46",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "516,1108,1703,2431",
+                        "endLines": "21,32,45,59",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "1103,1698,2426,3212"
+                    }
+                }
+            ]
+        }
+    ]
+}

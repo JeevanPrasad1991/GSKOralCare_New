@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:id="@+id/dashboard_belowchartheader2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dashboard_chartheader2"
+        android:weightSum="1.0" >
+
+        <RelativeLayout
+            android:id="@+id/dashboard_7C"
+            android:layout_width="0dip"
+            android:layout_height="30sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".46"
+            android:background="#cfcfcf"
+            android:padding="5sp" >
+
+            <TextView
+                android:id="@+id/dashboard_7c_titletext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:paddingLeft="5sp"
+                android:text="Product"
+                android:textColor="#414141"
+                android:textSize="15sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/dashboard_8C"
+            android:layout_width="0dip"
+            android:layout_height="30sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".27"
+            android:background="#e1e1e1"
+            android:padding="5sp" >
+
+            <TextView
+                android:id="@+id/dashboard_8c_titletext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="MTD"
+                android:textColor="#414141"
+                android:textSize="15sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/dashboard_9C"
+            android:layout_width="0dip"
+            android:layout_height="30sp"
+            android:layout_marginBottom="1sp"
+            android:layout_marginRight="1sp"
+            android:layout_weight=".27"
+            android:background="#cfcfcf"
+            android:padding="5sp" >
+
+            <TextView
+                android:id="@+id/dashboard_9c_titletext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="AvgPd"
+                android:textColor="#414141"
+                android:textSize="15sp"
+                android:textStyle="normal" />
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>
